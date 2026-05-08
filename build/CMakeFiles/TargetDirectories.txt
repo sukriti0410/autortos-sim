@@ -1,0 +1,3 @@
+/Users/sukritimukherjee/autortos-sim/autortos-sim/build/CMakeFiles/autortos-sim.elf.dir
+/Users/sukritimukherjee/autortos-sim/autortos-sim/build/CMakeFiles/edit_cache.dir
+/Users/sukritimukherjee/autortos-sim/autortos-sim/build/CMakeFiles/rebuild_cache.dir
